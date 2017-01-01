@@ -1,1 +1,72 @@
-Google style sheet
+body {
+  font: 15px arial, sans-serif;
+}
+#header {
+  position: ;
+}
+
+a {
+  color: black
+}
+
+div {
+  padding: 100px;
+}
+
+p {
+  padding: 10px;
+}
+
+input {
+  font: 16px arial, sans-serif;
+  display: block;
+  height: 36px;
+  width: 592px;
+  margin: 16px auto 8px auto;
+  font-size: large;
+  text-indent: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  padding: 8px;
+  background-color: ;
+}
+
+.footer2 {
+  padding: 14px 16px;
+  text-decoration: none;
+  float: left;
+}
+
+.footer3 {
+  padding: 14px 16px;
+  text-decoration: none;
+  float: right;}
+
+#wrapper {
+  min-height: 100%;
+    position: relative;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+#footer {
+  background: #f2f2f2;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
